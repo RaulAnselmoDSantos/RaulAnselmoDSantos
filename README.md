@@ -6,7 +6,7 @@
 <div> 
   <a href="https://github.com/RaulAnselmoDSantos">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=RaulAnselmoDSantos&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="70cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAnselmoDSantos&_icons=true&theme=tokyonight&layout=compact"/> 
+  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAnselmoDSantos&_icons=true&theme=tokyonight&layout=compact"/> 
   <img height="100cm" src="https://github-readme-stats.vercel.app/api/pin/?username=RaulAnselmoDSantos&repo=github-readme-stats&_icons=true&theme=tokyonight"/> 
 </div> 
 
