@@ -1,7 +1,7 @@
 ## Opa! Tudo bom? Me chamo Raul Anselmo 👋
 
 - 🌱 Atualmente estudo Programação focado em CSS, HTML, JavaScript e C#.
-- ⚡ Fato Interessante: A resposta da vida verdade e universo é 42. 
+- ⚡ Fato Interessante: A resposta da vida, verdade e universo é 42. 
 ##
 <div> 
   <a href="https://github.com/RaulAnselmoDSantos">
