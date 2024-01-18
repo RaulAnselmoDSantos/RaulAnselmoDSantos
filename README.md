@@ -1,6 +1,6 @@
 ## Opa! Tudo bom? Me chamo Raul Anselmo 👋
 
-- 🌱 Atualmente estudo Programação focado em CSS, HTML, JavaScript e C#.
+- 🌱 Atualmente estudo Programação focado em CSS, HTML, Typescript.
 - ⚡ Fato Interessante: A resposta da vida, verdade e universo é 42. 
 ##
 <div> 
@@ -11,7 +11,8 @@
 </div> 
 
 - <p>
-    <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
+    <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
+    <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" align="center" height="50" width="40">
     <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
     <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
     <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
