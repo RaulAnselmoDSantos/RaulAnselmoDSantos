@@ -6,7 +6,6 @@ Caraguatatuba, São Paulo, Brasil
 - Mobile: 12996575869  
 - Email: raul.trabalho5511@gmail.com  
 - LinkedIn: [linkedin.com/in/raul-anselmo](www.linkedin.com/in/raul-anselmo)  
-- GitHub: [github.com/RaulAnselmoDSantos](github.com/RaulAnselmoDSantos)
   
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAnselmoDSantos&_icons=true&theme=tokyonight&layout=compact"/> 
  
