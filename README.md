@@ -32,12 +32,7 @@ Sou Raul Anselmo, um estudante de Tecnologia em Análise e Desenvolvimento de Si
 - Português (Native or Bilingual)  
 
 **Certifications:**  
-- React: conhecendo a biblioteca  
-- React Router  
-- Curso Introdutório de Javascript  
-- Formação Pratique HTML e CSS em projetos Web  
-- Git e GitHub: Formação Básica  
-- Inglês Comercial: Small Talk  
+- Alura: [**Clique Aqui**](https://cursos.alura.com.br/user/raul-santos9/fullCertificate/5adcee856c133850e84d3db33f07f02d) 
 
 ## Experiência
 **PUAH Consultoria**  
