@@ -23,9 +23,12 @@ Sou Raul Anselmo, um estudante de Tecnologia em Análise e Desenvolvimento de Si
 
 
 ## Principais competências
-- Virtual Network Computing
-- Documentação de software
-- Documentação técnica
+  - Desenvolvimento de front-end
+  - Gestão de problemas
+  - Documentação técnica
+  - Relatórios
+  - Programação orientada a objetos (POO)
+  - Typescript
 
 **Languages:**  
 - Inglês (Elementary)  
