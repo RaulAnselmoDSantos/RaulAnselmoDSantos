@@ -18,7 +18,13 @@ Caraguatatuba, São Paulo, Brasil
 </p>
 
 ## Resumo
-Sou Raul Anselmo, um estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP), com previsão de conclusão em 2024. Tenho formação técnica em Administração pelo mesmo instituto e um certificado de Inglês A1 pela Influx Business School. Atualmente, trabalho como Suporte Técnico na PUAH Consultoria, uma empresa de soluções em tecnologia da informação. Nessa função, eu auxilio os clientes na resolução de problemas técnicos, configuração de sistemas e instalação de programas. Tenho conhecimentos em HTML5, CSS e Linux, que adquiri através de cursos introdutórios de Javascript e programação pela Trybe e pela Alura. Sou entusiasta e curioso na área de programação, e busco sempre aprender novas ferramentas e técnicas. Meu objetivo é me aprimorar na área de programação web e desenvolver projetos inovadores e criativos.
+Sou Raul Anselmo, estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP), com previsão de conclusão em 2026. Também possuo formação técnica em Administração pelo mesmo instituto e um certificado de Inglês A1 pela Influx Business School.
+
+Atualmente, trabalho como Suporte Técnico na Informática F1, uma empresa especializada em soluções de tecnologia da informação. Minhas atividades incluem auxiliar clientes na resolução de problemas técnicos, configuração de sistemas e instalação de programas.
+
+Tenho experiência com TypeScript, desenvolvendo no frontend com React e Next.js e no backend com Node.js e Nest.js. Além disso, possuo conhecimentos básicos em Java e Python, além de uma sólida base em HTML5, CSS e Linux, adquiridos através de cursos e projetos práticos pela Trybe e pela Alura.
+
+Sou apaixonado por tecnologia e programação, sempre buscando aprender novas ferramentas e técnicas. Meu objetivo é aprimorar minhas habilidades em programação web e contribuir para o desenvolvimento de projetos inovadores e criativos.
 - ⚡ Fato Interessante: A resposta da vida, verdade e universo é 42.
   
 **Languages:**  
@@ -30,7 +36,7 @@ Sou Raul Anselmo, um estudante de Tecnologia em Análise e Desenvolvimento de Si
 
 ## Formação acadêmica
 - **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP**  
-  *TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS*, Tecnologia em Tecnologia da Informação/Sistemas da Informação · (fevereiro de 2022 - novembro de 2024)
+  *TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS*, Tecnologia em Tecnologia da Informação/Sistemas da Informação · (fevereiro de 2022 - novembro de 2026)
 - **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP**  
   *Técnico em Administração*, Administração, Negócios e Marketing · (janeiro de 2017 - junho de 2018)
 - **Influx Business School**  
