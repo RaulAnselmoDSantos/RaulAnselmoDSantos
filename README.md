@@ -15,6 +15,8 @@ Caraguatatuba, São Paulo, Brasil
     <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
     <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
     <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
+    <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
+    <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" align="center" height="50" width="40">
 </p>
 
 ## Resumo
