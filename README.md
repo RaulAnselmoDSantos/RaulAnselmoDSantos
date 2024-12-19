@@ -20,13 +20,30 @@ Caraguatatuba, São Paulo, Brasil
 </p>
 
 ## Resumo
-Sou Raul Anselmo, estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP), com previsão de conclusão em 2026. Também possuo formação técnica em Administração pelo mesmo instituto e um certificado de Inglês A1 pela Influx Business School.
+Olá! 👋 Me chamo Raul Anselmo e sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP), com previsão de conclusão em 2026. Também possuo formação técnica em Administração pelo IFSP e certificado de Inglês A1 pela Influx Business School.
 
-Atualmente, trabalho como Suporte Técnico na Informática F1, uma empresa especializada em soluções de tecnologia da informação. Minhas atividades incluem auxiliar clientes na resolução de problemas técnicos, configuração de sistemas e instalação de programas.
+Atualmente, estou em uma jornada de aprendizado e prática no desenvolvimento full stack, com foco em projetos reais e desafios práticos. 💻
 
-Tenho experiência com TypeScript, desenvolvendo no frontend com React e Next.js e no backend com Node.js e Nest.js. Além disso, possuo conhecimentos básicos em Java e Python, além de uma sólida base em HTML5, CSS e Linux, adquiridos através de cursos e projetos práticos pela Trybe e pela Alura.
+🛠️ Experiência Atual e Projetos Desenvolvidos:
 
-Sou apaixonado por tecnologia e programação, sempre buscando aprender novas ferramentas e técnicas. Meu objetivo é aprimorar minhas habilidades em programação web e contribuir para o desenvolvimento de projetos inovadores e criativos.
+Responsável pelo Backend de um projeto acadêmico em desenvolvimento web, utilizando Node.js, NestJS, Prisma ORM e PostgreSQL.
+
+Implementação de Autenticação JWT para controle de acesso seguro.
+Configuração de rotas RESTful documentadas com Swagger.
+Hospedagem da API em ambiente de testes na Render.
+Adoção de boas práticas de versionamento no GitHub.
+Trabalho como Suporte Técnico na Informática F1, onde auxilio clientes na resolução de problemas técnicos, além de configurar sistemas e realizar instalações de programas. Essa experiência fortaleceu minhas habilidades em atendimento e solução de problemas no setor de tecnologia.
+
+🧰 Tecnologias que utilizo no dia a dia:
+
+Frontend: React.js, Next.js, HTML5, CSS3.
+Backend: Node.js, NestJS, TypeScript.
+Banco de Dados: PostgreSQL e Prisma ORM.
+Outras tecnologias: Git/GitHub, Linux, Docker (básico) e conceitos de API RESTful.
+🚀 Objetivos:
+Atualmente, estou aprimorando minhas habilidades em desenvolvimento backend, focando em boas práticas, segurança, e escalabilidade de APIs. Tenho como objetivo contribuir para projetos inovadores e eventualmente trabalhar como desenvolvedor full stack em um ambiente desafiador e colaborativo.
+
+🌟 Sou apaixonado por tecnologia e programação, buscando aprender algo novo todos os dias. Vamos nos conectar e conversar sobre tecnologia e inovação? 🚀
 - ⚡ Fato Interessante: A resposta da vida, verdade e universo é 42.
   
 **Languages:**  
