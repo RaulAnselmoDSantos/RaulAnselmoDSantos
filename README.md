@@ -1,13 +1,6 @@
 # Raul Anselmo
-**Suporte técnico | Tecnologia da Informação**  
-Caraguatatuba, São Paulo, Brasil  
-
-**Contato:**  
-- Mobile: 12996575869  
-- Email: raul.trabalho5511@gmail.com  
-- LinkedIn: [linkedin.com/in/raul-anselmo](www.linkedin.com/in/raul-anselmo)  
-  
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAnselmoDSantos&_icons=true&theme=tokyonight&layout=compact"/> 
+**Backend Developer in Training & IT Support** • Caraguatatuba, SP 🇧🇷  
+[LinkedIn](https://www.linkedin.com/in/raul-anselmo/) • [Portfólio](https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/pt/) • [Currículo (PT/EN)](link)
  
  <p>
     <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
@@ -17,46 +10,49 @@ Caraguatatuba, São Paulo, Brasil
     <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
     <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
     <img src="https://nestjs.com/logo-small-gradient.d792062c.svg " align="center" height="50" width="40">
+    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" align="center" height="50" width="40">
 </p>
 
-## Resumo
-Olá! 👋 Me chamo Raul Anselmo e sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP), com previsão de conclusão em 2026. Também possuo formação técnica em Administração pelo IFSP e certificado de Inglês A1 pela Influx Business School.
+---
 
-Atualmente, estou em uma jornada de aprendizado e prática no desenvolvimento full stack, com foco em projetos reais e desafios práticos. 💻
+##  Pinned Projects
 
-🛠️ Experiência Atual e Projetos Desenvolvidos:
+| Projeto | Breve descrição | Stack |
+|--------|------------------|-------|
+| Backup Service | Solução interna com SSH, firewall e automação de backups | Java, PowerShell |
+| Zabbix + Grafana | Monitoramento de >100 dispositivos com dashboards visuais | Zabbix, Grafana |
+| API RESTful (NestJS) | Backend com JWT, Prisma ORM e PostgreSQL | NestJS, Node.js |
+| Atendimento WhatsApp (Bot) | Automação de suporte via N8N e WhatsApp | N8N, API |
+| LotoMania Analyser | App Java com interface e SQLite para análise de apostas | Java, SQLite |
 
-Responsável pelo Backend de um projeto acadêmico em desenvolvimento web, utilizando Node.js, NestJS, Prisma ORM e PostgreSQL.
+---
 
-Implementação de Autenticação JWT para controle de acesso seguro.
-Configuração de rotas RESTful documentadas com Swagger.
-Hospedagem da API em ambiente de testes na Render.
-Adoção de boas práticas de versionamento no GitHub.
-Trabalho como Suporte Técnico na Informática F1, onde auxilio clientes na resolução de problemas técnicos, além de configurar sistemas e realizar instalações de programas. Essa experiência fortaleceu minhas habilidades em atendimento e solução de problemas no setor de tecnologia.
+##  Sobre Mim
+Técnico em Informática e estudante de Análise de Sistemas no **IFSP** (2022–2025), atuando como **Técnico de Suporte** em infraestrutura (MikroTik, Windows Server, Linux, AD). Desenvolvo soluções internas (backup, automação, monitoramento), além de estudar backend e DevOps (Docker, Kubernetes, GitHub Actions).
 
-🧰 Tecnologias que utilizo no dia a dia:
+---
 
-Frontend: React.js, Next.js, HTML5, CSS3.
-Backend: Node.js, NestJS, TypeScript.
-Banco de Dados: PostgreSQL e Prisma ORM.
-Outras tecnologias: Git/GitHub, Linux, Docker (básico) e conceitos de API RESTful.
-🚀 Objetivos:
-Atualmente, estou aprimorando minhas habilidades em desenvolvimento backend, focando em boas práticas, segurança, e escalabilidade de APIs. Tenho como objetivo contribuir para projetos inovadores e eventualmente trabalhar como desenvolvedor full stack em um ambiente desafiador e colaborativo.
+##  Tecnologias & Ferramentas
 
-🌟 Sou apaixonado por tecnologia e programação, buscando aprender algo novo todos os dias. Vamos nos conectar e conversar sobre tecnologia e inovação? 🚀
-- ⚡ Fato Interessante: A resposta da vida, verdade e universo é 42.
-  
-**Languages:**  
-- Inglês (Elementary)  
-- Português (Native or Bilingual)  
+**Infra & DevOps:** MikroTik, Windows Server, Linux, Docker, Kubernetes, GitHub Actions  
+**Backend:** Node.js, NestJS, TypeScript, JWT, Prisma, PostgreSQL, MySQL  
+**Monitoramento:** Zabbix, Grafana  
+**Automação:** Java, PowerShell, N8N  
+**Outros:** Git, GitHub, API REST, Currículo Multilíngue, Portfólio Online
 
-**Certifications:**  
-- Alura: [**Clique Aqui**](https://cursos.alura.com.br/user/raul-santos9/fullCertificate/5adcee856c133850e84d3db33f07f02d) 
+---
 
-## Formação acadêmica
-- **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP**  
-  *TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS*, Tecnologia em Tecnologia da Informação/Sistemas da Informação · (fevereiro de 2022 - novembro de 2026)
-- **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP**  
-  *Técnico em Administração*, Administração, Negócios e Marketing · (janeiro de 2017 - junho de 2018)
-- **Influx Business School**  
-  *Inglês A1*, Línguas
+##  Formação & Certificações
+
+- **IFSP** – Análise e Desenvolvimento de Sistemas (2022–2026)  
+- Técnico em Administração (IFSP, 2017–2018)  
+- Inglês A1 (Influx Business School)  
+- **Certificações AWS** (Architect Associate, Cloud Foundations)  
+- **Cursos**: JavaScript, Node.js (Alura), HTML5 & CSS (Trybe)
+
+---
+
+##  O que estou buscando
+
+Quero atuar como **backend developer** (remoto ou híbrido), participar de projetos desafiadores e colaborar com equipes que valorizem automação, escalabilidade e boas práticas. E, claro, ao estilo Douglas Adams: **a resposta para tudo é 42**.  
+
