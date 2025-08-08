@@ -44,7 +44,7 @@ Técnico em Informática e estudante de Análise de Sistemas no **IFSP** (2022�
 
 ##  Formação & Certificações
 
-- **IFSP** – Análise e Desenvolvimento de Sistemas (2022–2026)  
+- **IFSP** – Análise e Desenvolvimento de Sistemas (2022–2025)  
 - Técnico em Administração (IFSP, 2017–2018)  
 - Inglês A1 (Influx Business School)  
 - **Certificações AWS** (Architect Associate, Cloud Foundations)  
