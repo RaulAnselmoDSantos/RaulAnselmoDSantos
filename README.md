@@ -1,6 +1,6 @@
 # Raul Anselmo
 **Backend Developer in Training & IT Support** • Caraguatatuba, SP 🇧🇷  
-[LinkedIn](https://www.linkedin.com/in/raul-anselmo/) • [Portfólio](https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/pt/) • [Currículo (PT/EN)](link)
+[LinkedIn](https://www.linkedin.com/in/raul-anselmo/) • [Portfólio](https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/pt/) •
  
  <p>
     <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
