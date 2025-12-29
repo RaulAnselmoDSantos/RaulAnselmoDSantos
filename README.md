@@ -9,7 +9,7 @@
     <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
     <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
     <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
-    <img src="https://nestjs.com/logo-small-gradient.d792062c.svg " align="center" height="50" width="40">
+    <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" align="center" height="50" width="40">
     <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" align="center" height="50" width="40">
 </p>
 
