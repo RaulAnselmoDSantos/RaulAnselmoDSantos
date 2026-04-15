@@ -2,16 +2,35 @@
 **Backend Developer in Training & IT Support** • Caraguatatuba, SP 🇧🇷  
 [LinkedIn](https://www.linkedin.com/in/raul-anselmo/) • [Portfólio](https://raulanselmodsantos.github.io/RaulAnselmoPortfolio/pt/) •
  
- <p>
-    <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
-    <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" align="center" height="50" width="40">
-    <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
-    <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
-    <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
-    <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
-    <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" align="center" height="50" width="40">
-    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" align="center" height="50" width="40">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="60">
+      <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" height="50" alt="TypeScript" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" height="50" alt="React" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height="50" alt="JavaScript" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height="50" alt="HTML5" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" height="50" alt="CSS3" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="50" alt="Node.js" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" height="50" alt="NestJS" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="50" alt="Java" />
+    </td>
+  </tr>
+</table>
+<br clear="all" />
 
 ---
 
