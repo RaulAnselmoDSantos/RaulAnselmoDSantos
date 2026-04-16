@@ -73,5 +73,5 @@ Técnico em Informática e estudante de Análise de Sistemas no **IFSP** (2022�
 
 ##  O que estou buscando
 
-Quero atuar como **backend developer** (remoto ou híbrido), participar de projetos desafiadores e colaborar com equipes que valorizem automação, escalabilidade e boas práticas. E, claro, ao estilo Douglas Adams: **a resposta para tudo é 42**.  
+Quero atuar como **backend developer** (remoto ou híbrido), participar de projetos desafiadores e colaborar com equipes que valorizem automação, escalabilidade e boas práticas. **a resposta para tudo é 42**.  
 
