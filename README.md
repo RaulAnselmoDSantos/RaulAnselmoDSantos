@@ -5,31 +5,32 @@
 <table align="center">
   <tr>
     <td align="center" width="60">
-      <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" height="50" alt="TypeScript" />
+      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" height="50" alt="TypeScript" />
     </td>
     <td align="center" width="60">
-      <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" height="50" alt="React" />
+      <img src="https://react.dev/favicon-32x32.png" height="50" alt="React" />
     </td>
     <td align="center" width="60">
-      <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height="50" alt="JavaScript" />
+      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" height="50" alt="JavaScript" />
     </td>
     <td align="center" width="60">
-      <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height="50" alt="HTML5" />
+      <img src="https://cdn-icons-png.flaticon.com/128/16020/16020759.png" height="50" alt="HTML5" />
     </td>
     <td align="center" width="60">
-      <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" height="50" alt="CSS3" />
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="50" alt="CSS3" />
     </td>
     <td align="center" width="60">
-      <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="50" alt="Node.js" />
+      <img src="https://nodejs.org/static/images/favicons/favicon.png" height="50" alt="Node.js" />
     </td>
     <td align="center" width="60">
-      <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" height="50" alt="NestJS" />
+      <img src="https://nestjs.com/logo.svg" height="50" alt="NestJS" />
     </td>
     <td align="center" width="60">
       <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="50" alt="Java" />
     </td>
   </tr>
 </table>
+
 <br clear="all" />
 
 ---
